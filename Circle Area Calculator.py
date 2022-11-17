@@ -5,4 +5,4 @@ try:
 except ValueError:
     print("You Can't Multiply Letters, or Decimal Numbers (Im Sure You Could But Im Too Lazy To Do That) ·_·")
 except :
-    print("N O")
+    print("N O...")
